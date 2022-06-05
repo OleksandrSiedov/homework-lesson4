@@ -1,0 +1,8 @@
+Обов'язково:
+
+Зверстати нову html сторінку використовуючи семантичні теги html. Сторінка має містити: заголовок першого рівня, заголовки другорядні, статті і секції, посилання на інші сторінки, посилання з якорями до секцій цієї сторінки, малюнки.
+Контент сторінки у цьому документі - https://lms.beetroot.academy:3005/bafile/b7264263-f308-4cbc-baf3-3f9b613f6194.pdf?bearer=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJieCI6dHJ1ZSwiYnhzIjp0cnVlLCJ1c2VyTmFtZSI6Ik9sZWtzYW5kciBTaWVkb3YiLCJ1c2VyIjp7ImlkIjoiY2wycW1tbWVsdjhvMTA4MjQxNTExOTRpeCIsInVzZXJOYW1lIjoiT2xla3NhbmRyIFNpZWRvdiIsImVtYWlsIjoib2xla3NhbmRyLnNpZWRvdkBnbWFpbC5jb20iLCJhY3RpdmF0ZWQiOnRydWUsImlzR2RwciI6dHJ1ZSwidGVybU9mVXNlIjp0cnVlLCJyb2xlcyI6WyJST0xFX1NUVURFTlQiXSwiYXZhdGFyIjpudWxsLCJwcm9maWxlIjp7ImF2YXRhciI6eyJwYXRoIjpudWxsfX0sImNpdHkiOnsiaWQiOiJjanhxZm11cHkwMDB6MDgzNmZlMm5ncGlnIiwibmFtZSI6ItCa0LjRl9CyIn19LCJpYXQiOjE2NTQyNzEwMTYsImV4cCI6MTY1NDg3NTgxNn0.W-AZWCHHy8XImES5CFQ-5P0TuGu8o6OBtZEGb1fyBfk 
+Екстра:
+
+В кінці сторінки додати iframe  який буде виводити контент резюме створеного на попередньому уроці.
+Додати вставку відео з ютюб - посилання - https://www.youtube.com/watch?v=dEBVe8Ij7JU&list=PLytQ0YczAfcdj-OUqWO20vPsr0ix0M1Us
